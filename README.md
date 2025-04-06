@@ -52,6 +52,5 @@ For PSK:
 ![WhatsApp Image 2025-04-06 at 18 22 05_95ec5de6](https://github.com/user-attachments/assets/a497b41a-6de7-40d8-b643-ea1164752326)
 ![WhatsApp Image 2025-04-06 at 18 22 05_fa261d82](https://github.com/user-attachments/assets/c078ab58-aa9e-401e-8306-dbf2854c4513)
 ![WhatsApp Image 2025-04-06 at 18 22 06_a79f561d](https://github.com/user-attachments/assets/f6937fbe-58f3-4aab-8753-01761fd0abdf)
-
 ## RESULT 
 Thus the ASK, FSK AND PSK Modulation and Demodulation techniques were analyzed.
